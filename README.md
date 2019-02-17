@@ -1,3 +1,15 @@
+# Download or clone 
+
+## `git clone https://github.com/blackMastery/react-pwa-setup.git`
+>Change the of the folder 'react-pwa-setup' to your project name.
+>Also change name attribute in the package.json file to your project name
+
+## `cd project name`
+
+
+## `npm install`
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
